@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "track_points",
-"crs": { "type": "name", "properties": { "name": "puchheim" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "track_fid": 0, "track_seg_id": 0, "track_seg_point_id": 0, "ele": 512.0, "time": "2022\/04\/27 15:44:55+00", "heartrate": 120, "distance": 0, "cadence": 94 }, "geometry": { "type": "Point", "coordinates": [ 11.356855, 48.183117 ] } },
 { "type": "Feature", "properties": { "track_fid": 0, "track_seg_id": 0, "track_seg_point_id": 1, "ele": 512.0, "time": "2022\/04\/27 15:44:56+00", "heartrate": 120, "distance": 0, "cadence": 94 }, "geometry": { "type": "Point", "coordinates": [ 11.35686, 48.1831285 ] } },
